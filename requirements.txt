@@ -2,3 +2,4 @@ streamlit
 numpy
 Pillow
 inference-sdk
+opencv-python-headless
